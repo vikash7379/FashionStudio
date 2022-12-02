@@ -62,6 +62,7 @@ const Left = styled.div`
     font-size: ${(props) => props.theme.fontlg};
     font-weight: 300;
     width: 80%;
+    opacity: 0.8;
     margin: 0 auto;
   }
 

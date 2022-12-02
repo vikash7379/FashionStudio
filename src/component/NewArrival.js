@@ -42,7 +42,7 @@ const Overlay = styled.div`
   }
   @media (max-width: 48em) {
     width: 80vw;
-    height: 60vh;
+    height: 70vh;
   }
 `;
 const Title = styled.h1`
@@ -137,7 +137,7 @@ const NewArrival = () => {
           trigger: element,
           start: "top top",
           scroller: ".App", // locomotive element
-          end: "bottom+=1000 top-=100%",
+          end: "bottom+=10 top-=100%",
           scrub: true,
           pin: true,
         },
@@ -189,6 +189,9 @@ const NewArrival = () => {
         <Product img={img2} title="Ladies special" />
         <Product img={img3} title="Casual style" />
         <Product img={img4} title="Traditional" />
+        <Product img={img2} title="Ladies special" />
+
+
       </Container>
 
       <Text data-scroll data-scroll-speed="-3">

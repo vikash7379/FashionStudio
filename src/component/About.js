@@ -49,6 +49,7 @@ const Left = styled.div`
   position: relative;
   z-index: 5;
   margin-top: 20%;
+  /* backdrop-filter: blur(12px); */
 
   @media (max-width : 64em){
     width : 80%;
