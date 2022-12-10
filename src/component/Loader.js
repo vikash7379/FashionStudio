@@ -96,7 +96,7 @@ const Loader = () => {
         </g>
       </svg>
       <Text variants={textVarients} initial="hidden" animate="visible">
-        Wibe studio
+        XOLO  studio
       </Text>
     </Container>
   );

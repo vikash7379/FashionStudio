@@ -119,7 +119,7 @@ const Footer = () => {
     <Section>
         <LogoContainer>
             <img src={logo} alt="logo"  data-scroll data-scroll-speed="2"/>
-            <h3>Wibe Studio</h3>
+            <h3>XOLO Studio</h3>
         </LogoContainer>
         <FooterComponent
             initial ={{y:"-400px"}}

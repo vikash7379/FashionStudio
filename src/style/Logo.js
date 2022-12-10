@@ -90,7 +90,7 @@ const Logo = () => {
           </g>
         </svg>
         <Text variants={textVarients} initial="hidden" animate="visible">
-          Wibe studio
+          XOLO Fashion studio
         </Text>
       </Link>
     </Container>
